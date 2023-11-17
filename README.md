@@ -11,3 +11,5 @@ Place your skins/capes in their respective folders and name the files `username.
 Run the script by typing `node index.js`.
 
 [Edit your hosts file](https://docs.rackspace.com/docs/modify-your-hosts-file) and add the IP address to the machine running the script.
+
+![example of skin and cape](https://exro.dev/static/img/javaw_J2zU2njV13.png)
