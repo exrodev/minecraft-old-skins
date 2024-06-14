@@ -1,6 +1,6 @@
 # Minecraft Old Skins
 
-![example of skin and cape](https://exro.dev/static/img/javaw_J2zU2njV13.png)
+![javaw_J2zU2njV13](https://github.com/exrodev/minecraft-old-skins/assets/58471319/ec75df65-cc99-485b-bd26-2532f8203bc1)
 
 ## How to use
 
